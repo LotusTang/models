@@ -1,6 +1,7 @@
 # TensorFlow Models
 
 Documentation: https://buildmedia.readthedocs.org/media/pdf/textsum-document/latest/textsum-document.pdf
+blog: https://ai.googleblog.com/2016/08/text-summarization-with-tensorflow.html
 
 This repository contains a number of different models implemented in [TensorFlow](https://www.tensorflow.org):
 
